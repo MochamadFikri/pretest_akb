@@ -23,7 +23,7 @@ class beres : AppCompatActivity() {
 
         btn = findViewById(R.id.btn_lanjut2);
         btn.setOnClickListener{
-            finish()
+            finishAffinity()
         }
 
     }

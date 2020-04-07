@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Pretest_AKB</string>
+    <string name="bold">
+        Dengan menekan tombol masuk berarti anda menyetujui
+        <b>Ketentuan Pengguna</b>
+        dan
+        <b>Kebijakan Data</b>
+        kami
+    </string>
 </resources>
